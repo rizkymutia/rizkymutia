@@ -1,43 +1,43 @@
-# Hi, I'm Rizky 👋
 
-**Muhammad Rizky Mutia Akbar**
+Hi, I'm Rizky 👋
+Muhammad Rizky Mutia Akbar
+Informatics (2022–2026) · Jepara, Central Java, Indonesia
+Junior Web Developer | Full-Stack Projects | Computer Vision Enthusiast
 
-*Informatics Graduate | Junior Web Developer | IT Systems*
+I build practical web applications and explore machine learning through hands-on research projects. My interests include backend development, database-driven systems, computer vision, and writing maintainable code that other developers can understand and test.
 
-I'm an Informatics graduate based in **Jepara, Central Java, Indonesia**. I enjoy building practical web applications that simplify everyday workflows, with a focus on readable code, maintainable systems, and useful solutions.
+🚀 Featured Projects
+🏢 SpaceSync — Room Reservation Management System
+A full-stack meeting-room reservation application with room management, booking approval workflows, role-based access control, QR check-in, and reporting.
 
-During my internship at the **Education Office of Sleman Regency**, I worked on improving the meeting-room reservation process. I have also explored image classification and adversarial robustness through academic work using CNNs and FGSM.
+Tech: Next.js · TypeScript · PostgreSQL · Prisma · GitHub Actions
 
-## 🛠️ Technical Skills
+🔗 Live Demo · Source Code
 
-- **Web Development:** PHP, Laravel, JavaScript/TypeScript (fundamentals), Next.js
-- **Databases & ORM:** SQL, PostgreSQL, Prisma ORM
-- **Python & Machine Learning:** Python, TensorFlow/Keras, CNN, FGSM (academic projects)
-- **Core Concepts:** CRUD applications, relational databases, web application development
+🧠 AI Image Classification & FGSM Detection
+A computer-vision research project examining AI-generated image classification, CNN robustness under FGSM attacks, adversarial training, and an FGSM perturbation detector. Its local Flask demo presents predictions from CNN Baseline, CLIP V2, and the FGSM Detector.
 
-## 📁 Selected Work
+Tech: Python · TensorFlow/Keras · CLIP · Flask · scikit-learn · GitHub Actions
 
-**Meeting Room Reservation System**
+🔗 Source Code & Research Results
+Local demo only; trained model weights and large datasets are not included in the Git repository.
 
-An internship project focused on improving the process of booking meeting rooms and organizing reservations.
+🛠️ Technical Skills
+Area	Technologies
+Web development	PHP, Laravel, JavaScript, TypeScript, Next.js
+Database	SQL, PostgreSQL, Prisma ORM
+Machine learning	Python, TensorFlow/Keras, CNN, CLIP, scikit-learn
+Tools & workflow	Git, GitHub Actions, Postman
+🎓 Education
+Universitas Muhammadiyah Semarang (UNIMUS)
+Informatics · 2022–2026 · GPA: 3.80/4.00
 
-**AI Image Classification & FGSM Research**
+🤝 Let's Connect
+I'm interested in opportunities in junior web/software development and IT staff roles, as well as collaboration on practical web and machine-learning projects.
 
-An academic project exploring CNN-based image classification and the impact of adversarial examples generated using the Fast Gradient Sign Method (FGSM).
+📍 Jepara, Central Java, Indonesia
+💻 GitHub: @rizkymutia
 
-*Public code and documentation for these projects are being prepared. I will add repository and demo links once they are ready to review.*
-
-## 🎓 Education
-
-**Bachelor's Degree in Informatics (2022–2026)**
-
-GPA: **3.80 / 4.00**
-
-## 📬 Contact
-
-- **Email:** [rizkyjepara11@gmail.com](mailto:rizkyjepara11@gmail.com)
-- **GitHub:** [github.com/rizkymutia](https://github.com/rizkymutia)
-
----
-
-*Interested in opportunities related to junior web development and IT systems.*
+<!-- Optional: add your public professional email or confirmed LinkedIn URL here. -->
+80%
+⋮⋮⋮⋮
