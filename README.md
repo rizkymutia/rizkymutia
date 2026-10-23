@@ -39,5 +39,3 @@ I'm interested in opportunities in junior web/software development and IT staff 
 💻 GitHub: @rizkymutia
 
 <!-- Optional: add your public professional email or confirmed LinkedIn URL here. -->
-80%
-⋮⋮⋮⋮
